@@ -1,0 +1,29 @@
+body,html {
+    width: 100%;
+    height: 100%;
+}
+
+
+.king {
+    width: 100%;
+}
+
+h1 {
+    color: bisque;
+    top: 200px;
+    position: absolute;
+    left: 50px;
+    display: none;
+}
+
+.canvas {
+    width: 100%;
+    position: relative;
+}
+
+.video {
+    position: absolute;
+    top: 300px;
+}
+
+

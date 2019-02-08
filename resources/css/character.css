@@ -1,0 +1,11 @@
+body {
+    background-color: black
+}
+
+.container-fluid {
+    background-color: whitesmoke}
+
+#contestant2, #contestant1{
+    font-family: fantasy;
+    font-size: 25px;
+}
