@@ -1,8 +1,9 @@
 
-$(".canvas").on('click', function(){
-    $("h1").fadeIn(1000);
-});
 
+
+$("button").click(function(){
+    
+  });
 
 var num = Math.floor(Math.random() * 400);
 

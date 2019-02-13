@@ -7,5 +7,15 @@ body {
 
 #contestant2, #contestant1{
     font-family: fantasy;
-    font-size: 25px;
+    font-size: 30px;
+    
+}
+
+#vs, #font{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.my-row {
+    height: 200px;
 }
